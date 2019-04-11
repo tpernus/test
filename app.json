@@ -1,0 +1,24 @@
+{
+  "id": "84815129-bcc7-43f0-9b20-ebaf9b41b78b",
+  "name": "BC",
+  "publisher": "Adacta Tjasa",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "https://privacy.microsoft.com/en-us/privacystatement",
+  "EULA": "https://privacy.microsoft.com/en-us/EULA",
+  "help": "https://bc.dtacconi.com/en-us/Help",
+  "url": "https://bc.dtacconi.com/en-us/ExtensionDescription",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3",
+  "features": ["TranslationFile"]
+}

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1789400218 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Level - Field Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1789400218 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Level - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 864327261 - Method 2490722444 - NamedType 2546897547" size-unit="char" translate="yes" xml:space="preserve">
+          <source>High Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CustWarning - Method SalesPostOnBeforePostSalesDoc - NamedType highLblErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 864327261 - Method 2490722444 - NamedType 1819111017" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Low</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CustWarning - Method SalesPostOnBeforePostSalesDoc - NamedType lowLblMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 864327261 - Action 1428743697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Customer Levels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustWarning - Action UpdateLevel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2762909026 - NamedType 3162369285" size-unit="char" translate="yes" xml:space="preserve">
+          <source>@1@@@@@@@@@@@@@@@@@@@@@</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit UpdateCustLevel - NamedType txt001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2058684148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MY Language List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Language List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2315158328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Level List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 204750654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Level Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2647506971 - Action 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Levels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesReceivablesSetupExt - Action Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1713901351 - Field 1834063840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExt - Field WarningLevel - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
