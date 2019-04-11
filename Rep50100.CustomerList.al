@@ -6,7 +6,6 @@ report 50100 "CustomerList"
     ProcessingOnly = false;
     PreviewMode = Normal;
     RDLCLayout = 'CustomerList.rdl';
-    WordLayout = 'CustomerList.word';
 
     dataset
     {
